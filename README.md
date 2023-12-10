@@ -12,7 +12,7 @@ During this bootcamp, I realized in python with numpy and pandas (the use of the
 Other fondamental aspects of machine learning, such as the confusion matrix, the use of metrics and regularization techniques were also explored.
 
 
-# Some resulats
+# Some results
 
 Linear regresison model with its cost function varying in function of the model parameters:
 ![linreg](https://github.com/E33aS42/Bootcamp_ML_regression/assets/66993020/bc937953-e752-4da1-bc88-c607b501e702)
