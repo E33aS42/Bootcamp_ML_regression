@@ -20,7 +20,7 @@ Linear regresison model with its cost function varying in function of the model 
 ![cost_func](https://github.com/E33aS42/Bootcamp_ML_regression/assets/66993020/9df08241-0ad8-4b09-af2a-e3a62e21087e)
 
 
-Polynomial multivariate regression nmodel using only 2 features and a polynome of degree 3:
+Polynomial multivariate regression model using only 2 features and a polynome of degree 3:
 
 ![multi_poly_reg _2f_deg3](https://github.com/E33aS42/Bootcamp_ML_regression/assets/66993020/71250eaf-3440-4dd9-8534-7fce6400dbed)
 
