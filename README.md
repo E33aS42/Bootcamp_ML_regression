@@ -25,6 +25,6 @@ Polynomial multivariate regression nmodel using only 2 features and a polynome o
 ![multi_poly_reg _2f_deg3](https://github.com/E33aS42/Bootcamp_ML_regression/assets/66993020/71250eaf-3440-4dd9-8534-7fce6400dbed)
 
 
-Logitic mregression odel:
+Logitic regression model:
 
 ![log_reg](https://github.com/E33aS42/Bootcamp_ML_regression/assets/66993020/e676591c-7c83-4784-b262-483376c8dcb8)
